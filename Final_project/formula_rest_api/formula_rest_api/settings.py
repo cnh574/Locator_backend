@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-vrdn!^11!=_mki(9dgo9j0_zk+n)e32va2+u!kz#zd(&x)!=6p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'safe-ocean-57585.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'mighty-thicket-49051']
 
 # dj_database_url
 # Application definition
